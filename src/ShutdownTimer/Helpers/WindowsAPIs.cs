@@ -1,6 +1,5 @@
 ﻿using Microsoft.Win32;
 using System;
-using Windows.UI.ViewManagement;
 
 namespace ShutdownTimer.Helpers
 {
